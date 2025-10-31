@@ -1,7 +1,7 @@
 # GAPMAP — Mapping Scientific Knowledge Gaps in Biomedical Literature with LLMs
 
 > Concise, clean README for the associated paper/repo. It keeps only the essentials: what the project is, how it works, what was evaluated, and the headline findings—using compact tables.
-
+https://www.arxiv.org/abs/2510.25055
 ---
 
 ## TL;DR
@@ -79,14 +79,6 @@ Best performance from large closed‑weight models; large open‑weights are clo
 
 ---
 
-## Citation
-**GAPMAP: Mapping Scientific Knowledge Gaps in Biomedical Literature Using Large Language Models.**  
-(Add full bibliographic entry here.)
-
----
-
 ## License
 Specify your license here (e.g., MIT).
 
-## Contact
-Maintainer name • email or GitHub handle.
